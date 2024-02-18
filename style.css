@@ -21,11 +21,11 @@ body {
   /* margin: 50px 0; */
 }
 
-.container {
+/* .container {
   max-width: 1400px;
   padding: 0 0px;
   margin: 0 auto;
-}
+} */
 
 .cards {
   display: grid;
